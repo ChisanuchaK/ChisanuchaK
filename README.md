@@ -1,5 +1,5 @@
 ### <h1 align="center">Kimmie CHISANUCHA</h1>
-### <h1 align="center"><img src="https://scontent.fbkk17-1.fna.fbcdn.net/v/t39.30808-6/301967789_5083062681803466_74174933663412515_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGHH-acZUxlTAslCwFsOymUgtSdA1GJpISC1J0DUYmkhJ5wTKwNiu9AQT4aFsJKsjs11lNpJKpZikOOhapkTG9Q&_nc_ohc=pS9vV8rGQlAAX-xLdAZ&tn=89GY1eUTOU5hdWhq&_nc_ht=scontent.fbkk17-1.fna&oh=00_AT9YvYQEoO5JEj1i6cnsy7Y7VEbAd2Xqipfugp8zWwo5rw&oe=63125E3F?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEmogxalWsVdSkG5R-b3rHF5SIbJW1K8vLlIhslbUry8oAuUVLKOKhtyx-sa7LFsRV_gKV0KslaCq83ioFgTxwG&_nc_ohc=beI9O0O-TAkAX_K8wFT&_nc_ht=scontent.fbkk17-1.fna&oh=00_AT90mykxFV2wMv8wKkeDA0ql6fUfkAfmeZtyg7ghtG9tqQ&oe=62F28CBF" width="300px"></h1>
+### <h1 align="center"><img src="https://scontent.fbkk17-1.fna.fbcdn.net/v/t39.30808-6/301967789_5083062681803466_74174933663412515_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGHH-acZUxlTAslCwFsOymUgtSdA1GJpISC1J0DUYmkhJ5wTKwNiu9AQT4aFsJKsjs11lNpJKpZikOOhapkTG9Q&_nc_ohc=pS9vV8rGQlAAX-xLdAZ&tn=89GY1eUTOU5hdWhq&_nc_ht=scontent.fbkk17-1.fna&oh=00_AT9YvYQEoO5JEj1i6cnsy7Y7VEbAd2Xqipfugp8zWwo5rw&oe=63125E3F" width="300px"></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChisanuchaK&show_icons=true&theme=tokyonight)
 
